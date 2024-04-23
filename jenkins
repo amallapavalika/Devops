@@ -16,7 +16,7 @@ pipeline {
             steps {
                 // Retrieve the URL of your application
                 // Replace this with the command to get the URL of your application
-                 echo "http://16.170.205.208/index(1).html" 
+                 echo "http://16.170.205.208/index.html" 
             }
         }
     }
